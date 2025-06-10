@@ -2,59 +2,42 @@
 
 ![Design preview for the Contact form coding challenge](./design/desktop-preview.jpg)
 
-
 # Contact Form – Frontend Mentor Challenge
 
-This is a responsive contact form project built as part of a [Frontend Mentor](https://www.frontendmentor.io/) challenge.  
-It features HTML, CSS (Grid + Flexbox), and JavaScript form validation.
+This is a fully responsive **Contact Form** project built as part of a Frontend Mentor challenge. The form includes:
 
-![Design preview](./assets/screenshot.png)
+- ✅ Real-time input validation  
+- ✅ Error handling with user-friendly messages  
+- ✅ Success feedback message  
+- ✅ Mobile-first responsive design  
+- ✅ Clean, semantic HTML  
+- ✅ CSS layout with accessibility in mind  
+- ✅ Vanilla JavaScript functionality
 
----
+## 💻 Live Demo
 
-## 🔗 Live Site
+🔗 [https://notorious-code.github.io/contact-form/](https://notorious-code.github.io/contact-form/)
 
-👉 [Live Preview on GitHub Pages](https://notorious-code.github.io/recipe-page/)
+## 📁 Technologies Used
 
----
+- HTML5
+- CSS3
+- JavaScript (ES6)
 
-## 📦 Features
+## 🧩 Challenge Info
 
-- ✅ Fully responsive design (mobile-first)
-- ✅ Form validation with error messages
-- ✅ Custom-styled radio buttons (query type)
-- ✅ Success message after submission
-- ✅ Accessible and semantic HTML
+This challenge was taken from [Frontend Mentor](https://www.frontendmentor.io/home/my-challenges) and adapted with my own code and styling decisions.  
+Includes custom validation logic and a clean layout that adapts from desktop to mobile (1440px → 375px).
 
----
+## ✍️ Coded by
 
-## 🧰 Technologies Used
-
-- **HTML5**
-- **CSS3** (Grid + Flexbox)
-- **Vanilla JavaScript**
-- **Responsive design** with media queries
----
-
-## 🧪 Validation Logic
-
-JavaScript handles client-side validation:
-- Required: First name, last name, email, message, query type, consent
-- Email format check (via RegEx)
-- Fields show red border and warning text if validation fails
-- Displays success message on valid submit
+**Zura Vepkhvadze**  
+[GitHub Profile](https://github.com/notorious-code)
 
 ---
 
-## 🧑‍💻 Author
+_Challenge by [Frontend Mentor](https://www.frontendmentor.io). Coded by [Zura Vepkhvadze](https://github.com/notorious-code)._
 
-- GitHub: [@notorious-code](https://github.com/notorious-code)
-- Built by: **[z.v]**
-- Challenge from [Frontend Mentor](https://www.frontendmentor.io/)
-
----
-
-## 📝 Notes
 
 This project was created as part of my frontend development learning journey.  
 UI was designed based on the challenge specs, and adapted with my initials for personalization.
